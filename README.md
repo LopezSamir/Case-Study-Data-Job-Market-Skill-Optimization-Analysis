@@ -22,10 +22,29 @@ In my previous project, which you can find in my GitHub repository titled [SL_Pr
 
 In order to answer each of these questions I made 5 different SQL queries. You can find the detailed process for each one in the link to the project above. I simply wanted to mention that this case study will be building on the results of those queries.
 
-# Step 1
+# Step 1 - Choosing a Visualization Tool and Importing Query results
 
+For this project, I'll be using PowerBI. First I ran my queries and save the results in the csv format. 
 
+<img width="208" height="179" alt="save as csv" src="https://github.com/user-attachments/assets/7a908578-21e9-47b2-9342-9ba7612f10b8" />
 
+In order to make it easy to find the unedited results later on, I imported those csv files into Excel.
+
+<img width="319" height="92" alt="import csv into excel" src="https://github.com/user-attachments/assets/ad5f8cd4-60a9-444a-87a3-4f329fc717f4" />
+
+You can find the Excel File Here (PlaceHolder)
+
+I decided to create my visualizations using Power BI, so the next thing I did was import that Excel file into Power BI.
+
+<img width="143" height="80" alt="import excel file into power bi" src="https://github.com/user-attachments/assets/3f538e3f-05a8-45a9-9695-c05fc4cf7216" />
+
+Here is what the data looks like once it is properly imported as well as an example of what the data looks like in table view of Power BI. 
+
+| Data in Power BI                                                                                                                              | Example of Result shown in Table View                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="132" height="515" alt="data in power bi" src="https://github.com/user-attachments/assets/fb8ed4f0-35e5-4f3f-8574-5e64e5daa273" /> | <img width="143" height="425" alt="example table view in power bi" src="https://github.com/user-attachments/assets/bd3e4a9d-4f5c-455b-bf82-ac3ce485c911" /> |
+
+# Step 2 - Building the Visualizations using Power BI
 
 
 
