@@ -1,5 +1,13 @@
 # Case-Study-Data-Job-Market-Skill-Optimization-Analysis
 
+This project is a work in progress with the general plan being:
+
+* Use SQL to analyze the dataset from my last project on the data job market.
+* Visualize my data analysis/queries
+* Create a powerpoint presentation and add these visualizations
+* record an audio presentation going over the case study
+* Upload audio presentation to GitHub Portfolio and this README
+
 
 ## Background on the Case Study
 
@@ -14,18 +22,16 @@ In other words, I need to first understand the data job market. Then I need to f
 
 As mentioned before, I will be using the same dataset from my previous project, which you can find in my GitHub repository titled [SL_Project_3_SQL_Data_Job_Analysis](https://github.com/LopezSamir/SL_Project_3_SQL_Data_Job_Analysis). I will be using the already set-up tables from that project so that I don't have to make it all over again.
 
-# Step 1: What Questions am I looking to Answer
+# Data Analysis using SQL
+
+## What questions am I looking to answer with SQL queries?
 
 1. What is the average annual salary for remote Data Analyst positions that have a listed salary?
 2. What are the 5 skills most frequently requested in remote Data Analyst job postings?
 3. Which skills are associated with higher salaries?
 4. What are the most optimal skills to learn?
 
-Once I have answered all of these questions using SQL, I will to answer my main question of:
-
-What is the most efficient way to become a skilled data analyst?
-
-## 1. What is the average annual salary for remote Data Analyst positions that have a listed salary?
+## 1. What is the average annual salary for remote data analyst positions that have a listed salary?
 
 In order to find the average salary of all remote data analyst jobs in the US, I created the following query:
 
@@ -46,7 +52,7 @@ WHERE
 
 * The average salary for remote data analysts in the US is $94,770. 
 
-## 2. What are the 5 skills most frequently requested in remote Data Analyst job postings?
+## 2. What are the 5 skills most frequently requested in remote data analyst job postings?
 
 In order to find the most demanded skills for data analysts, I created the following query:
 
@@ -80,8 +86,6 @@ LIMIT 5
 ## 3. Which skills are associated with higher salaries?
 
 In order to find which skills come with the highest salaries, I created the following query:
-
-Note: I have also added the demand count for these skills to give a better understanding on whether or not they are worth focusing on as a new analyst.
 
 ```sql
 
@@ -204,6 +208,12 @@ LIMIT 15
 <img width="341" height="311" alt="most optimal skills fixed" src="https://github.com/user-attachments/assets/3a252e5b-4265-4c0d-8119-034f207fe550" />
 
 ### Key Takeaways
+
+* SQL has the highest demand (398) out of any skill that appeared on a job posting with a given salary. On top of that it also has a high average salary of $97,237. It ranks number 1 on my list of most optimal skills for an entry-level data analyst to focus on.
+* Number 2 on my list of most optimal skills for an entry-level data analyst to focus on is Tableau/Power BI. It is mandatory for any good analyst to be proficient at visualizing their data, and these two are the leading choices.
+* To round off the top 3, ranking 3rd on my list of most optimal skills for an entry-level data analyst to focus on is Python. Python had the second highest demand (236) on the list while also having a higher average salary than SQL, at $101,397.
+
+# Visualizing SQL Queries with Tableau/PowerBI
 
 
 
