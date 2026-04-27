@@ -223,12 +223,11 @@ In progress - Visualizations coming soon.
 
 This case study set out to answer one question: What is the most efficient way to become a skilled data analyst?
 
-The data made the answer clear. SQL is the single most important skill to learn first. It has the highest demand of any skill with a posted average salary at 398 postings and a strong average salary of $97,237. Python and Tableau/Power BI round out the core three, and together these skills represent the optimal foundation for any new analyst looking to break into the field. Once those are solid, cloud tools like Snowflake, Azure, and AWS are the next logical step. They consistently pay $10–15K more than the foundational skills and have enough demand to be worth learning. The top 25 highest-paying skills like PySpark may look appealing, but the data shows they appear in too few postings to be a practical target for someone just starting out like me. 
+The data made the answer clear. SQL is the single most important skill to learn first. It has the highest demand of any skill at 398 postings and a strong average salary of $97,237. Python and Tableau/Power BI round out the core three, and together these skills represent the optimal foundation for any new analyst looking to break into the field. Once those are solid, cloud tools like Snowflake, Azure, and AWS are the next logical step. They consistently pay $10–15K more than the foundational skills and have enough demand to be worth learning. The top 25 highest-paying skills like PySpark may look appealing, but the data shows they appear in too few postings to be a practical target for someone just starting out like me. 
 
 My plan for the future is: Learn the core three to get hired, then add cloud skills to get paid more once I have gained experience working as an analyst.
 
 
-Note: The conclusion is subject to change as I continue working on this case study, but the findings will not.
 
 
 
