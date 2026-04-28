@@ -217,6 +217,28 @@ LIMIT 15
 
 In progress - Visualizations coming soon.
 
+For this project, I will be using Power BI as my choice of visualization tool.
+
+
+First - save query outputs as csv files
+
+<img width="220" height="83" alt="save outputs as csv files" src="https://github.com/user-attachments/assets/563e1d4b-1f5b-42ed-b2bd-40bf4d741e20" />
+
+Second - import csv files into an excel file
+
+
+<img width="319" height="92" alt="import csv into excel" src="https://github.com/user-attachments/assets/6e32c2e4-26c3-410c-9fc9-c3b1404c63d9" />
+
+
+
+
+<img width="589" height="905" alt="csv files in excel" src="https://github.com/user-attachments/assets/f7b94c47-02b8-4916-a2a9-41ff72bb3374" />
+
+Third - import excel file into Power BI
+
+
+<img width="136" height="149" alt="data in power bi" src="https://github.com/user-attachments/assets/784433dd-3b0e-48a6-b70b-299836b1362c" />
+
 
 
 # Conclusion
