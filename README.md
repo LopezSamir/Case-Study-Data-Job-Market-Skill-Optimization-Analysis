@@ -4,9 +4,8 @@ This project is a work in progress with the general plan being:
 
 * Use SQL to analyze the dataset from my last project on the data job market.
 * Visualize my data analysis/queries
-* Create a powerpoint presentation and add these visualizations
-* record an audio presentation going over the case study
-* Upload audio presentation to GitHub Portfolio and this README
+* Create a written report and add these visualizations
+* Upload Written report to GitHub Portfolio and this README
 
 
 ## Background on the Case Study
