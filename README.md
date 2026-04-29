@@ -255,10 +255,11 @@ For this project, I will be using Power BI as my choice of visualization tool.
 
 <img width="1007" height="529" alt="start capitalizing skills" src="https://github.com/user-attachments/assets/e6871d27-e6ca-43c6-b6b8-acaf99724e96" />
 
-## 8. Final Dashboard 
+## 8. Final Dashboard
 
 
-<img width="968" height="551" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/8ec74488-c3ee-4037-9ad8-ef727dbc988e" />
+<img width="976" height="554" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/92817782-e48e-4533-b4c9-e530faf7493f" />
+
 
 
 
