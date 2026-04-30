@@ -214,17 +214,18 @@ LIMIT 15
 
 # Visualizing SQL Queries with Tableau/PowerBI
 
-In progress - Visualizations coming soon.
-
-For this project, I will be using Power BI as my choice of visualization tool.
+For this project, I will be using Power BI as my choice of visualization tool. I'll list the steps I took and explain a bit of my thought process while making the dashboard.
 
 
-## 1. Save query outputs as csv files
+## Step 1. Save query outputs as csv files
+
+I want to make a dashboard without having to mess with the dataset again. An easy way of doing that is to use the outputs of my SQL queries instead as that is the data that I want anyways. I chose to save the outputs as csv files as shown below.
 
 <img width="220" height="83" alt="save outputs as csv files" src="https://github.com/user-attachments/assets/563e1d4b-1f5b-42ed-b2bd-40bf4d741e20" />
 
-## 2. Import csv files into an excel file
+## Step 2. Import csv files into an excel file
 
+I have the personal preference of saving all csv files into one easy to find place In case I want to add to it later on. In this case, I chose to import the csv files into an excel workbook because I know from personal experience that you can easily import that workbook into Power BI.
 
 <img width="319" height="92" alt="import csv into excel" src="https://github.com/user-attachments/assets/6e32c2e4-26c3-410c-9fc9-c3b1404c63d9" />
 
@@ -233,36 +234,69 @@ For this project, I will be using Power BI as my choice of visualization tool.
 
 <img width="589" height="905" alt="csv files in excel" src="https://github.com/user-attachments/assets/f7b94c47-02b8-4916-a2a9-41ff72bb3374" />
 
-## 3. Import excel file into Power BI
+## Step 3. Import excel file into Power BI
 
+I imported the excel workbook into Power BI. Heres what the data looks like once its in.
 
 <img width="136" height="149" alt="data in power bi" src="https://github.com/user-attachments/assets/784433dd-3b0e-48a6-b70b-299836b1362c" />
 
-## 4. Make Visualizations for each query
+## Step 4. Make Visualizations for each query
 
+Now its finally time to start making the visualizations using the queries. Heres what I made for each one:
+
+### 1. Average Salary for Remote Data Analysts
+* Visualization type - Card
+* Reason - The output for this query is just one number. A card is perfect for visualizing that. I could have chosen to just make it a textbox, but that is not as efficient.
+
+### 2. Top 5 Skills By Demand
+* Visualization type - Clustered Bar Chart
+* Reason - I want to visualize the demand for each skill in an easily understandable way. The clustered bar chart is perfect for this.
+
+### 3. Skills Associated With Highest Salaries 
+* Visualization type - Table
+* Reason - I was originally going to create a column chart like the one below, but formatted better, however I felt like it was misleading. That chart makes the highest paying skills seem like must-learn skills, but then I took into account the demand count for each of these skills. The demand for these skills is very low, which is better shown through the table visualization. Also the table visualization allows you to scroll through the skills so it doesn't take up a lot of space.
+
+
+<img width="496" height="274" alt="couldve used a clumn chart" src="https://github.com/user-attachments/assets/fba63921-47c2-4636-868f-a20ef14deb55" />
+
+### 4. Most Optimal Skills
+* Visualization type - Scatter Chart
+* Reason - I wanted a visualization that could show the efficiency of learning a skill. I think the scatter chart is perfect for this. With a scatter chart, I was able to include the demand, salary, and name of each skill in an easy to understand way.
+
+### Here is what all 4 of my intitial visualizations look like
 
 <img width="973" height="560" alt="initial dashboard" src="https://github.com/user-attachments/assets/557c20bf-f743-49db-adc3-02135d5ba37f" />
 
-## 5. Add a background and borders, and align the visualizations to look more like a dashboard.
+## Step 5. Make it look like a dashboard
+
+The things I did to make the visualizations look like a dashboard were:
+
+1. Added a background by making a rectangle shape the size of the whole dashboard. Then I sent it to the back and made it a slightly darker color.
+2. Added rounded borders to each visualization.
+3. Resized the visualizations and aligned them.
+
+### Here is what I would call the initial dashboard.
 
 <img width="979" height="553" alt="dashboard V02" src="https://github.com/user-attachments/assets/ac7a8823-9460-4246-b14d-50be903adb4d" />
 
-## 6. Make it cleaner and easier to read/understand
+## Step 6. Make it cleaner and easier to read/understand
+
+I didn't really like how distracting the large black borders were, so I got rid of them. I also made the card look better by moving the Remote US part to below the salary number using a textbox with a green background and rounded borders.
+
+### Here is what it looked like without the distracting borders
 
 <img width="962" height="541" alt="Dashboard V03" src="https://github.com/user-attachments/assets/689ecdba-126d-4037-8c78-d46a35eb6861" />
 
-## 7. Capitalize skills
+## Step 7. Finishing touches on dashboard
+
+Now I'm really liking how the dashboard is looking, but one part is bothering me. The skills are all lowercase. So I opened up Power Query using the transform data tab and capitlized the skills columns as shown below. I also centered the title for the most demanded skills because I thought it would better. Lastly I realized that some people might be confused on why the demand count for the same skill is different in the bar chart and the scatter plot, so I added that the scatter chart only considers job postings in which the salary was included. 
 
 <img width="1007" height="529" alt="start capitalizing skills" src="https://github.com/user-attachments/assets/e6871d27-e6ca-43c6-b6b8-acaf99724e96" />
 
-## 8. Final Dashboard
+## Step 8. Final Dashboard
 
 
 <img width="976" height="554" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/92817782-e48e-4533-b4c9-e530faf7493f" />
-
-
-
-
 
 
 
