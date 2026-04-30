@@ -306,7 +306,7 @@ This case study set out to answer one question: What is the most efficient way t
 
 The data made the answer clear. SQL is the single most important skill to learn first. It has the highest demand of any skill at 398 postings and a strong average salary of $97,237. Python and Tableau/Power BI round out the core three, and together these skills represent the optimal foundation for any new analyst looking to break into the field. Once those are solid, cloud tools like Snowflake, Azure, and AWS are the next logical step. They consistently pay $10–15K more than the foundational skills and have enough demand to be worth learning. The top 25 highest-paying skills like PySpark may look appealing, but the data shows they appear in too few postings to be a practical target for someone just starting out like me. 
 
-Personal Thoughts: I have been working with this dataset for a while now, and I have learne a lot from it. I was able to build a portfolio of projects while practicing different key skills for data analysis. I have grown to like SQL a lot and I can't wait to learn more with my next case study and job.
+Personal Thoughts: I have been working with this dataset for a while now, and I have learned a lot from it. I was able to build a portfolio of projects while practicing different key skills for data analysis. I have grown to like SQL a lot and I can't wait to learn more with my next case study and job.
 
 
 My plan for the future is: Learn the core three to get hired, then add cloud skills to get paid more once I have gained experience working as an analyst.
