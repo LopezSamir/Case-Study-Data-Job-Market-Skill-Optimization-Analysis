@@ -1,17 +1,16 @@
 # Case-Study-Data-Job-Market-Skill-Optimization-Analysis
 
-This project is a work in progress with the general plan being:
-
-* Use SQL to analyze the dataset from my last project on the data job market.
-* Visualize my data analysis/queries
-* Create a written report and add these visualizations
-* Upload Written report to GitHub Portfolio and this README
-
 
 ## Background on the Case Study
 
-I recently completed the Google Data Analytics Certificate through Coursera and at the end of the course is instructions for an optional Case Study Capstone Project. Of the three options, it was the last option of a personal case study that stood out to me. I have spent the last couple of months working with a free dataset I found online which I analyzed using different tools to build myself a portfolio. The dataset contains detailed information on the data jobs market and has been very helpful to me in my journey towards learning more about data analytics. As such, I have decided to base my first case study on my previous project in which I used SQL to answer real data market questions. I will be turning that data into charts and graphs that I'll use to create a presentation, completing this personal case study before moving on to another case study that better follows the exact instrustions from the Google Data Analytics Certificate course.
+I recently completed the Google Data Analytics Certificate through Coursera and at the end of the course is instructions for an optional Case Study Capstone Project. Of the three options, it was the last option of a personal case study that stood out to me. I have spent the last couple of months working with a free dataset I found online which I analyzed using different tools to build myself a portfolio. The dataset contains detailed information on the data job market and has been very helpful to me in my journey towards learning more about data analytics. As such, I have decided to base my first case study on this dataset. I will be turning that data into charts and graphs that I'll use to create a dashboard, completing this personal case study before moving on to a case study that follows the exact format from the Google Data Analytics Certificate course.
 
+# Main Tools/Skills Used In This Project
+
+* SQL
+* Excel
+* Power BI
+* Power Query
 
 # Introduction
 
@@ -19,7 +18,8 @@ This case study project is the culmination of my work over the last 3 months (Fe
 
 In other words, I need to first analyze the data job market. Then I need to visualize my findings. Lastly, I need to create a presentation to share my findings and insights.
 
-As mentioned before, I will be using the same dataset from my previous project, which you can find in my GitHub repository titled [SL_Project_3_SQL_Data_Job_Analysis](https://github.com/LopezSamir/SL_Project_3_SQL_Data_Job_Analysis). I will be using the already set-up tables from that project so that I don't have to make it all over again.
+I will be using the same dataset from my previous project, which you can find in my GitHub repository titled [SL_Project_3_SQL_Data_Job_Analysis](https://github.com/LopezSamir/SL_Project_3_SQL_Data_Job_Analysis). I will also be using the already set-up tables from that project so that I don't have to make it all over again.
+
 
 # Data Analysis using SQL
 
